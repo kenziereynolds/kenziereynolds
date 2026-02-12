@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning how to navigate through github and utilise data in research.
 - 💬 Ask me about my work on rabies (I may get excited)...
 - ⚡ Fun fact: I got denied entry to Sweden at border control, whilst going to study!
-
+- I am currently a TA alongside studying.
