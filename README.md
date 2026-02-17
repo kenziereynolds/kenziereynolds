@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a masters degree in Health Data Science.
 - 🌱 I’m currently learning how to navigate through github and utilise data in research.
 - 💬 Ask me about my work on rabies (I may get excited)...
-- ⚡ Fun fact: I got denied entry to Sweden at border control, whilst going to study!
+- ⚡ Fun fact: I got detained and denied entry to Sweden at border control, whilst going to study!
 - I am currently a TA alongside studying.
 
 Assessment 1:
