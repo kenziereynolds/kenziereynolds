@@ -1,5 +1,3 @@
-# About me
-
 # 💫 About Me:
 🧚🏻‍♀️ Hey! I'm Kenzie.<br>🖥️ Currently studying an M.Sc. in Health Data Science at the University of Exeter.<br>🩸 Completed an epidemiological project using R during my B.Sc. in Biomedical Science.<br>🪄 I enjoy travelling and submerging myself in fantasy books.
 
