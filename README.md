@@ -18,6 +18,7 @@ Hospitals, which employ many doctors, who treat many patients, who receive many 
 ERD.png and Pseudocode show the entity relationship diagram and pseudocode (respectively) that were created during the planning of this project. 1_createtables is the script used to create the database, move into it, create all 4 tables and set with primary and foreign keys. 2_loaddata is the script used to load data from the CSV files into these tables. 3_queries is the script used to extract and manipulate data, also ensuring all previous steps worked seamlessly. Database.sql is the final, exported database.
 
 The queries demonstrate filtering, ordering, aggregation and JOIN usage. Finally, the AI_usage_log details how AI was used throughout this project.
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kenziereynolds5) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kenzieellareynolds@gmail.com) 
 
