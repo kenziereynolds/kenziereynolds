@@ -4,7 +4,8 @@
 🧚🏻‍♀️ Hey! I'm Kenzie.<br>🖥️ Currently studying an M.Sc. in Health Data Science at the University of Exeter.<br>🩸 Completed an epidemiological project using R during my B.Sc. in Biomedical Science.<br>🪄 I enjoy travelling and submerging myself in fantasy books.
 
 # 🗂️ Repositories:
-Assessment1 creates a relational hospital database in MySQL to facilitate data extraction and analysis of hospitals, doctors, patients and prescriptions.
+## Assessment1 
+This project creates a relational hospital database in MySQL to facilitate data extraction and analysis of hospitals, doctors, patients and prescriptions.
 
 Database design using ERD and pseudocode;
 Creation of relational tables using primary and foreign keys;
