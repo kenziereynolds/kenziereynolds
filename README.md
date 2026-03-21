@@ -23,6 +23,16 @@
 
 ###
 
+<h3 align="left">🗂️ Repositories</h3>
+
+###
+
+<p align="left">Assessment1 creates a relational hospital database in MySQL to facilitate data extraction and analysis of hospitals, doctors, patients and prescriptions.
+
+Database design using ERD and pseudocode; Creation of relational tables using primary and foreign keys; Importing data from CSV files; Writing SQL queries to retreive and analyse data; Use of GitHub for version control.</p>
+
+###
+
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
